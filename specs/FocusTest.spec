@@ -12,3 +12,8 @@ Test focus
 * Open the "https://www.focusservices.com" form search result page
 * Validate the 'Now hiring' button is displayed
 * Open 'Location' page
+* Validate the "North America" tab is selected
+* Open "Central America" location tab
+* Validate the "El Salvador & Nicaragua" title is displayed
+* Open "Asia" location tab
+* Validate the "Bacolod City, Philippines" title location is displayed

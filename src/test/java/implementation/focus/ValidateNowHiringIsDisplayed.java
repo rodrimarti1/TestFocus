@@ -1,4 +1,4 @@
-package implementation;
+package implementation.focus;
 
 import com.codeborne.selenide.Condition;
 import com.thoughtworks.gauge.Step;
