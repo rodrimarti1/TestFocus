@@ -10,3 +10,5 @@ Test focus
 * Submit the search from 'Google' page
 * Validate the "https://www.focusservices.com" is displayed in search result page
 * Open the "https://www.focusservices.com" form search result page
+* Validate the 'Now hiring' button is displayed
+* Open 'Location' page
